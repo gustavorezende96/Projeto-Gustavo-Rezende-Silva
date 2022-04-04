@@ -68,6 +68,8 @@ body{
     justify-content: space-between;
     margin-left: 70px;
 }
+
+
 .meio .img1{
     width: 150px;
     height: 150px;
@@ -204,3 +206,18 @@ form button{
     cursor: pointer;
     
 }
+
+::-webkit-scrollbar {
+    width: 10px;
+    background: #000000;
+  }
+  
+  ::-webkit-scrollbar-track {
+    background: #ffffff;
+    border-radius: 10px;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background: #32B9CD;
+    border-radius: 10px;
+  }
